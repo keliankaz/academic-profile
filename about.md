@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: About Me
 ---
 
 Some stuff
 
-[Home Page](/)
+[Home Page](/academic-profile/)
