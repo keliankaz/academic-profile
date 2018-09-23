@@ -5,3 +5,9 @@
 
 
 /* Other styles go below */
+a{
+  color:gray;
+  &:hover{
+    color: #555555;
+  }
+}
