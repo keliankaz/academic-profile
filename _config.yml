@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
-title: Kelian Dasdcher-Cousineau
+title: Kelian Dascher-Cousineau
 description: University of California Santa Cruz.
 logo: /assets/img/my_photo.png
+plugins:
+  - jekyll-gist
