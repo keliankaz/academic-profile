@@ -7,8 +7,6 @@ title: About Me
 
 ## Research
 
-<a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
-
 ### Earthquake Statistics
 
 What causes some earthquakes to have more aftershocks than others? In <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">__this study__</a>, we systematically tested how attributes of a mainshock related to its setting (depth, plate boundary type, etc.) and its sources (stress drop, radiated energy, source dimensions, etc.) influence the number of aftershocks to come. We work towards a complimentary approach to aftershock forecasting that relies solely on attributes of the source instead of long term calibration.
