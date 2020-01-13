@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-![A photo in the forest](/assets/img/my_photo.jpg){:class="img-responsive"}
+![A photo in the forest](assets/img/utah_mollys_castle.jpg){:class="img-responsive"}
 
 ## Research
 
