@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
 description: <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
-logo: /assets/img/ucsc-768x497.png
 plugins:
   - jekyll-gist
