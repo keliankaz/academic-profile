@@ -16,7 +16,7 @@ What causes some earthquakes to have more aftershocks than others? In <a href="h
 
 ### Fault Zone Geomorphology
 
-<video controls="controls" width="400" height="200"
+<video controls="controls" width=100% height=auto
        name="Video Name" src="assets/gifs/landscape_evolution.mov"></video>
 
 Faults are iconic features of the landscape. Can we use their expression in the landscape to better understand them? I am using a combination of field observations, remote measurements and landscape evolution models to better characterize fault structure with a particular focus on fault zone damage.
