@@ -25,7 +25,7 @@ Faults are iconic features of the landscape. Can we use their expression in the 
 
 ![Utah](assets/img/utah_mollys_castle.jpg){:class="img-responsive"}
 
-Do faults smooth with cummulative displacement? In <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB015638">__this study__</a>, we leveraged a natural laboratory to characterize the topography of over one hundred individual slip surfaces. Our study provides clear evidence for smoothing of fault slip surfaces with cummulative offset.
+Do faults smooth with cummulative displacement? In <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB015638">__this study__</a>, we leveraged faults in the San Rafael Desert as a natural laboratory to test this question. We measured the roughness of over a hundred slip surfaces using high resolution laser scanners. Our study provides clear evidence for smoothing of fault slip surfaces with cummulative offset.
 
 
 <!-- -----
