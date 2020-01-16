@@ -4,7 +4,7 @@ title: About Me
 ---
 
 ## About me
-I am a Phd candidate at the University of California Santa Cruz primarily working with Emily Brodsky. I study various problems under the umbrella of earthquake physics.
+I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics.
 
 ## Research
 
@@ -16,8 +16,11 @@ What causes some earthquakes to have more aftershocks than others? In <a href="h
 
 ### Fault Zone Geomorphology
 
-<video controls="controls" width=auto height=auto
-       name="Video Name" src="assets/gifs/landscape_evolution.mov"></video>
+<div align="center" class="embed-responsive embed-responsive-16by9">
+    <video controls="controls" width="100%" height=auto
+       name="Video Name" src="assets/gifs/landscape_evolution.mov">
+    </video>
+</div>
 
 Faults are iconic features of the landscape. Can we use their expression in the landscape to better understand them? I am using a combination of field observations, remote measurements and landscape evolution models to better characterize fault structure with a particular focus on fault zone damage.
 
