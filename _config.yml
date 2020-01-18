@@ -3,3 +3,4 @@ title: Kelian Dascher-Cousineau
 description: <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
 plugins:
   - jekyll-gist
+  - jekyll-twitter-plugin
