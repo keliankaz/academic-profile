@@ -6,10 +6,8 @@ title: About Me
 ## About me
 I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics.
 
-## My recent activity
-{% twitter https://twitter.com/keliankaz maxwidth=500 %}]
-
-<a class="twitter-timeline" href="https://twitter.com/keliankaz?ref_src=twsrc%5Etfw">Tweets by keliankaz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Questions? Please feel free to contact me at the following address:
+kdascher@ucsc.edu
 
 ## Research
 
@@ -21,7 +19,9 @@ What causes some earthquakes to have more aftershocks than others? In <a href="h
 
 ### Fault Zone Geomorphology
 
-<video controls="loop"
+<video
+       loop="loop"
+       autoplay="autoplay"
        width="320"
        height="240"
        name="Video Name"
@@ -36,6 +36,7 @@ Faults are iconic features of the landscape. Can we use their expression in the 
 
 Do faults smooth with cummulative displacement? In <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JB015638">__this study__</a>, we leveraged faults in the San Rafael Desert as a natural laboratory to test this question. We measured the roughness of over a hundred slip surfaces using high resolution laser scanners. Our study provides clear evidence for smoothing of fault slip surfaces with cummulative offset.
 
+<a class="twitter-timeline" data-height="300" width="500" href="https://twitter.com/keliankaz?ref_src=twsrc%5Etfw">Tweets by keliankaz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- -----
 thing | 2 | more -->
