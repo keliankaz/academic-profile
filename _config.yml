@@ -1,6 +1,23 @@
 theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
-description: <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
+description:
+
+  <head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+
+  <div>
+    <i class="material-icons" style="vertical-align:middle">email</i> kdascher@ucsc.edu
+  </div>
+
+  <div>
+    <i class="material-icons" style="vertical-align:middle">school</i> <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
+  </div>
+  
+  <div>
+    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="assets/docs/Kelian Dascher-Cousineau - Resume 2020.pdf">Resume</a>
+  </div>
+
 plugins:
   - jekyll-gist
   - jekyll-twitter-plugin

@@ -4,10 +4,9 @@ title: About Me
 ---
 
 ## About me
-I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics.
+<img src="assets/img/me.jpg" alt="my face and rocks">
 
-Questions? Please feel free to contact me at the following address:
-kdascher@ucsc.edu
+I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics, hypothesis testing and forecasting.
 
 ## Research
 
