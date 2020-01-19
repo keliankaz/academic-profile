@@ -7,7 +7,9 @@ title: About Me
 I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics.
 
 ## My recent activity
-{% twitter https://twitter.com/keliankaz maxwidth=500 %}
+{% twitter https://twitter.com/keliankaz maxwidth=500 %}]
+
+<a class="twitter-timeline" href="https://twitter.com/keliankaz?ref_src=twsrc%5Etfw">Tweets by keliankaz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Research
 
@@ -15,7 +17,7 @@ I am a Phd candidate at the University of California Santa Cruz working with Emi
 
 ![relative aftershock productivity](assets/img/worldmap_res.png){:class="img-responsive"}
 
-What causes some earthquakes to have more aftershocks than others? In <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">__this study__</a>, we systematically tested how attributes of a mainshock related to its setting (depth, plate boundary type, etc.) and its sources (stress drop, radiated energy, source dimensions, etc.) influence the number of aftershocks to come. We work towards a complimentary approach to aftershock forecasting that relies solely on attributes of the source instead of long term calibration.
+What causes some earthquakes to have more aftershocks than others? In <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">__this study__</a>, we systematically tested how attributes of a mainshock related to its setting (depth, plate boundary type, etc.) and its sources (stress drop, radiated energy, source dimensions, etc.) influence the number of aftershocks to come. We work towards a complimentary approach to aftershock forecasting that relies solely on attributes of the source instead of long term calibration. This project was funded by the NESRC Alexander Graham Bell fellowship.
 
 ### Fault Zone Geomorphology
 
@@ -26,7 +28,7 @@ What causes some earthquakes to have more aftershocks than others? In <a href="h
        src="assets/gifs/landscape_evolution.mov">
 </video>
 
-Faults are iconic features of the landscape. Can we use their expression in the landscape to better understand them? I am using a combination of field observations, remote measurements and landscape evolution models to better characterize fault structure with a particular focus on fault zone damage.
+Faults are iconic features of the landscape. Can we use their expression in the landscape to better understand them? I am using a combination of field observations, remote measurements and landscape evolution models to better characterize fault structure with a particular focus on fault zone damage. This project is funded by NASA's FINNEST fellowship.
 
 ### Fault Mechanics
 
