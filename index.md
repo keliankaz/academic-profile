@@ -2,7 +2,6 @@
 layout: default
 title: About Me
 ---
-<meta name="google-site-verification" content="wFTtTHmL739-XZIkQX0sAv-Ihaoesq8J7GxJI0vbCRc" />
 
 ## About me
 <img src="assets/img/me.jpg" alt="my face and rocks">
