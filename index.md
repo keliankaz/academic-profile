@@ -3,11 +3,11 @@ layout: default
 title: About Me
 ---
 
-<head>
+<!-- <head>
   <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <meta name="google-site-verification" content="wFTtTHmL739-XZIkQX0sAv-Ihaoesq8J7GxJI0vbCRc" />
   {% raw %}{% seo %}{% endraw %} -->
-</head>
+<!-- </head> --> -->
 
 ## About me
 <img src="assets/img/me.jpg" alt="my face and rocks">
@@ -20,7 +20,9 @@ I am a Phd candidate at the University of California Santa Cruz working with Emi
 
 ![relative aftershock productivity](assets/img/worldmap_res.png){:class="img-responsive"}
 
-What causes some earthquakes to have more aftershocks than others? In <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">__this study__</a>, we systematically tested how attributes of a mainshock related to its setting (depth, plate boundary type, etc.) and its sources (stress drop, radiated energy, source dimensions, etc.) influence the number of aftershocks to come. We work towards a complimentary approach to aftershock forecasting that relies solely on attributes of the source instead of long term calibration. This project was funded by the NESRC Alexander Graham Bell fellowship.
+What causes some earthquakes to have more aftershocks than others? In <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB018111?casa_token=gp66I2kN9x8AAAAA%3AGS_KT2p2_7BSQAY9gxydpCuEf3eikdYvNO31ipsSwZ5KfhJDCElJI5a_yOsWh2vX-D2ZTnczgAjBNIQY">__this study__</a>, we systematically tested how attributes of a mainshock related to its setting (depth, plate boundary type, etc.) and its sources (stress drop, radiated energy, source dimensions, etc.) influence the number of aftershocks to come. We work towards a complimentary approach to aftershock forecasting that relies solely on attributes of the source instead of long term calibration. This project was funded by the NESRC Alexander Graham Bell fellowship.
+
+Can we identify aftershocks in real time? In <a href="https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200082/587937/Two-Foreshock-Sequences-Post-Gulia-and-Wiemer-2019?redirectedFrom=fulltext">__this study__</a>, I was interested to test whether b-value changes near the source of large mainshocks can be used as a diagnosis for an impending larger earthquake.
 
 ### Fault Zone Geomorphology
 
