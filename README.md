@@ -13,4 +13,4 @@ $ git commit -m "I'm making awesome changes cus I'm great"
 $ git push origin master
 ```
 
-Then go see if your changes are there after like a minute! And if not, cry and maybe call Simon.
+Then go see if your changes are there after like a minute! 
