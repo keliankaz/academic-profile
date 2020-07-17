@@ -4,9 +4,9 @@ title: About Me
 ---
 
 <head>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <meta name="google-site-verification" content="wFTtTHmL739-XZIkQX0sAv-Ihaoesq8J7GxJI0vbCRc" />
-  {% raw %}{% seo %}{% endraw %}
+  {% raw %}{% seo %}{% endraw %} -->
 </head>
 
 ## About me
