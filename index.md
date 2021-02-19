@@ -7,7 +7,7 @@ title: About Me
 ## About me
 <img src="assets/img/me.jpg" alt="my face and rocks">
 
-I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics, hypothesis testing and forecasting.
+I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics, fault mechanics, data science and earthquake forecasting.
 
 ## Research
 
