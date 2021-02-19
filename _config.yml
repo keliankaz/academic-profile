@@ -2,8 +2,12 @@ theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
 description:
 
+  <head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  </head>
+
   <div>
-    <i class="material-icons"> email</i> kdascher@ucsc.edu
+    <i class="material-icons" style="vertical-align:middle">email</i> kdascher@ucsc.edu
   </div>
 
   <div>
