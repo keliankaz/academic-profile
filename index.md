@@ -30,7 +30,7 @@ Can we identify aftershocks in real time? In <a href="https://pubs.geosciencewor
        src="assets/gifs/landscape_evolution.mov">
 </video>
 
-Faults are iconic features of the landscape. Can we use their expression in the landscape to better understand them? I am using a combination of field observations, remote measurements and landscape evolution models to better characterize fault structure with a particular focus on fault zone damage. This project is funded by NASA's FINNEST fellowship.
+Faults are iconic features of the landscape. Can we use their expression in the landscape to better understand them and vice versa? I am using a combination of field observations, remote measurements and landscape evolution models to better characterize fault structure with a particular focus on fault zone damage. This project is funded by NASA's FINNEST fellowship. In <a href="https://science.sciencemag.org/content/373/6551/204">__this study__</a>, we explored the rich interaction between faulting and the drainage network. The study provides a quantitative framework to understand the landscape's capacity to respond to fault slip on millennial timescales.
 
 ### Fault Mechanics
 
