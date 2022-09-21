@@ -7,7 +7,7 @@ title: About Me
 ## About me
 <img src="assets/img/me.jpg" alt="my face and rocks">
 
-I am a Phd candidate at the University of California Santa Cruz working with Emily Brodsky, Thorne Lay and Noah Finnegan. I study various problems under the umbrella of earthquake physics, fault mechanics, data science and earthquake forecasting.
+I am a postdoctoral <a href="https://miller.berkeley.edu/fellowship/members/current-miller-fellows">Miller research fellow__</a> at the University of California Berkeley hosted by Roland Bürgmann. I study various problems under the umbrella of earthquake physics, fault mechanics, data science and earthquake forecasting.
 
 ## Research
 
