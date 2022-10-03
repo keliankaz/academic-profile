@@ -19,7 +19,7 @@ What causes some earthquakes to have more aftershocks than others? In <a href="h
 
 Can we identify aftershocks in real time? In <a href="https://pubs.geoscienceworld.org/ssa/srl/article-abstract/doi/10.1785/0220200082/587937/Two-Foreshock-Sequences-Post-Gulia-and-Wiemer-2019?redirectedFrom=fulltext">__this study__</a>, I was interested to test whether b-value changes near the source of large mainshocks can be used as a diagnosis for an impending larger earthquake.
 
-What's next for earthquake statistics? An explosive growth in the scale and diversity of earthquake catalogs has yet to translate into improved earthquake forecasts. I incorporating a new class of models known as neural-temporal point processes into the standard earthquake forecasting framework. Check out my SCEC plenary talk <a href="https://youtu.be/U946TOVY89Y">__here__</a>.
+What's next for earthquake statistics? An explosive growth in the scale and diversity of earthquake catalogs has yet to translate into improved earthquake forecasts. I incorporating a new class of models known as neural-temporal point processes into the standard earthquake forecasting framework. Check out my SCEC plenary talk <a href="https://www.scec.org/publication/12516">__here__</a>.
 
 ### Fault Zone Geomorphology
 
