@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
 description:
+baseurl: "/academic-profile"
 
   <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -16,7 +17,7 @@ description:
   </head>
 
   <div>
-    <i class="material-icons" style="vertical-align:middle">pages</i> <a href="Blog">Blog</a>
+    <i class="material-icons" style="vertical-align:middle">pages</i> <a href="href="{{ 'Blog' | relative_url }}">Blog</a>
   </div>
 
   <div>
@@ -28,7 +29,7 @@ description:
   </div>
 
   <div>
-    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="assets/docs/Kelian Dascher-Cousineau - Resume 2023.pdf">Resume</a>
+    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="{{ '/assets/docs/Kelian Dascher-Cousineau - Resume 2023.pdf' | relative_url }}">Resume</a>
   </div>
 
 plugins:
