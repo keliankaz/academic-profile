@@ -2,6 +2,7 @@
 layout: post
 title:  "Earthquakes: Learning by example"
 thumbnail: "assets/img/learning_by_example.jpeg"
+tags: ["Machine learning","Earthquakes"]
 ---
 
 ### I.
