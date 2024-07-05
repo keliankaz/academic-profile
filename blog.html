@@ -7,8 +7,9 @@ permalink: /Blog/
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    </li>
+    <div>
+        <a href="{{ post.url }}" ><img src="{{ post.thumbnail }}" />
+        <a href="{{ post.url | relative_url }}">{{ post.title }} </a>
+        </div>
   {% endfor %}
 </ul>
