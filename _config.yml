@@ -17,7 +17,7 @@ baseurl: "/academic-profile"
   </head>
 
   <div>
-    <i class="material-icons" style="vertical-align:middle">pages</i> <a href="href="{{ 'Blog' | relative_url }}">Blog</a>
+    <i class="material-icons" style="vertical-align:middle">pages</i> <a href="{{ baseurl }}/Blog">Blog</a>
   </div>
 
   <div>
@@ -35,4 +35,3 @@ baseurl: "/academic-profile"
 plugins:
   - jekyll-gist
   - jekyll-twitter-plugin
-  - jekyll-seo-tag
