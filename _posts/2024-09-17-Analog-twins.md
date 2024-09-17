@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Analog twins"
-thumbnail: "assets/img/learning_by_example.jpeg"
+thumbnail: "assets/img/learning_by_example.png"
 tags: ["Aftershocks","Earthquakes"]
 ---
 
