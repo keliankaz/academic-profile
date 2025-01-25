@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
 description: ""
 baseurl: "/academic-profile"
+url: "https://keliankaz.github.io"
 
   <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
