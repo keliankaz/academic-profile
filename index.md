@@ -5,9 +5,9 @@ title: About Me
 
 <img src="assets/img/me.jpg" alt="my face and rocks">
 
-I am a postdoctoral <a href="https://miller.berkeley.edu/fellowship/members/current-miller-fellows">__Miller research fellow__</a> at the University of California Berkeley hosted by Roland Bürgmann. I explore earthquake physics, fault mechanics, data science and earthquake forecasting.
+I am an assistant professor at <a href="https://www.usu.edu/geo/earthquake-science">__Utah State University__</a>. I explore earthquake physics, fault mechanics, data science and earthquake forecasting.
 
-I will be starting as an assistant professor at <a href="https://www.usu.edu/geo/earthquake-science">__Utah State University__</a> January 2025. I'll be looking for graduate students starting on Fall 2025. Reach out if you are interested!
+I am looking for graduate students starting on Fall 2025. Please reach out if you are interested!
 
 ## Research
 ****
