@@ -3,6 +3,35 @@ layout: default
 title: About Me
 ---
 
+  <head>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FL4E7ECPD"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-1FL4E7ECPD');
+    </script>
+  </head>
+
+  <div>
+    <i class="material-icons" style="vertical-align:middle">pages</i> <a href="href="{{ 'Blog' | relative_url }}">Blog</a>
+  </div>
+
+  <div>
+    <i class="material-icons" style="vertical-align:middle">email</i> kdascher@berkeley.edu
+  </div>
+
+  <div>
+    <i class="material-icons" style="vertical-align:middle">school</i> <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
+  </div>
+
+  <div>
+    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="{{ '/assets/docs/Kelian Dascher-Cousineau - Resume 2023.pdf' | relative_url }}">Resume</a>
+  </div>
+
 <img src="assets/img/me.jpg" alt="my face and rocks">
 
 I am an assistant professor at <a href="https://www.usu.edu/geo/earthquake-science">__Utah State University__</a>. I explore earthquake physics, fault mechanics, data science and earthquake forecasting.
