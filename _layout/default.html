@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1FL4E7ECPD"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-1FL4E7ECPD');
+  </script>
+</head>
+<body>
+  <header>
+    <nav>
+      <div>
+        <i class="material-icons" style="vertical-align:middle">pages</i>
+        <a href="{{ 'blog.html' | relative_url }}">Blog</a>
+      </div>
+      <div>
+        <i class="material-icons" style="vertical-align:middle">email</i>
+        kdascher@berkeley.edu
+      </div>
+      <div>
+        <i class="material-icons" style="vertical-align:middle">school</i>
+        <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
+      </div>
+      <div>
+        <i class="material-icons" style="vertical-align:middle">bookmark</i>
+        <a href="{{ '/assets/docs/Kelian Dascher-Cousineau - Resume 2023.pdf' | relative_url }}">Resume</a>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <p>© {{ site.title }}</p>
+  </footer>
+</body>
+</html>
