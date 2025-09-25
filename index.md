@@ -17,10 +17,6 @@ title: About Me
   </head>
 
   <div>
-    <i class="material-icons" style="vertical-align:middle">pages</i> <a href="href="{{ 'Blog' | relative_url }}">Blog</a>
-  </div>
-
-  <div>
     <i class="material-icons" style="vertical-align:middle">email</i> kdascher@berkeley.edu
   </div>
 
@@ -29,7 +25,7 @@ title: About Me
   </div>
 
   <div>
-    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="{{ '/assets/docs/Kelian Dascher-Cousineau - Resume 2023.pdf' | relative_url }}">Resume</a>
+    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="{{ '/assets/docs/Kelian Dascher-Cousineau - Resume 2025.pdf' | relative_url }}">Resume</a>
   </div>
 
 <img src="assets/img/me.jpg" alt="my face and rocks">
