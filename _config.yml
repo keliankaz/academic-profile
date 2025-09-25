@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
-description: ""
+description: "Personal website for my work on earthquake physics, fault mechanics, data science and earthquake forecasting"
 baseurl: "/academic-profile"
 
 plugins:
