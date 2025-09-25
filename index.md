@@ -16,18 +16,6 @@ title: About Me
     </script>
   </head>
 
-  <div>
-    <i class="material-icons" style="vertical-align:middle">email</i> kdascher@berkeley.edu
-  </div>
-
-  <div>
-    <i class="material-icons" style="vertical-align:middle">school</i> <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a>
-  </div>
-
-  <div>
-    <i class="material-icons" style="vertical-align:middle">bookmark</i> <a href="{{ '/assets/docs/Kelian Dascher-Cousineau - Resume 2025.pdf' | relative_url }}">Resume</a>
-  </div>
-
 <img src="assets/img/me.jpg" alt="my face and rocks">
 
 I am an assistant professor at <a href="https://www.usu.edu/geo/earthquake-science">__Utah State University__</a>. I explore earthquake physics, fault mechanics, data science and earthquake forecasting.

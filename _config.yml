@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
 title: Kelian Dascher-Cousineau
 description: >-
-  <i class="material-icons" aria-hidden="true">email</i>
+  <i class="material-icons" style="vertical-align:middle" aria-hidden="true">email</i>
   <a href="mailto:kdascher@berkeley.edu">kdascher@berkeley.edu</a><br>
-  <i class="material-icons" aria-hidden="true">school</i>
+  <i class="material-icons" style="vertical-align:middle" aria-hidden="true">school</i>
   <a href="https://scholar.google.ca/citations?hl=en&user=XsIHgIsAAAAJ">Google Scholar Profile</a><br>
-  <i class="material-icons" aria-hidden="true">bookmark</i>
+  <i class="material-icons" style="vertical-align:middle" aria-hidden="true">bookmark</i>
   <a href="/academic-profile/assets/docs/Kelian Dascher-Cousineau - Resume 2025.pdf">Resume</a>
 baseurl: "/academic-profile"
 
