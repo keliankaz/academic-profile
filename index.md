@@ -20,7 +20,7 @@ title: About Me
 
 I am an assistant professor at <a href="https://www.usu.edu/geo/earthquake-science">__Utah State University__</a>. I explore earthquake physics, fault mechanics, data science and earthquake forecasting.
 
-I am looking for graduate students starting on Fall 2025. Please reach out if you are interested!
+I am actively looking for graduate students. Please reach out if you are interested!
 
 ## Research
 ****
